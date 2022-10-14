@@ -10,10 +10,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump textures\\handle_normal.png
-map_Kd textures\\handle_base_color.png
-map_Ns textures\\handle_roughness.png
-refl textures\\handle_metallic.png
+map_Bump https://github.com/bpaszkowski10/testObject2/blob/main/textures/handle_normal.jpg
+map_Kd https://github.com/bpaszkowski10/testObject2/blob/main/textures/handle_base_color.jpg
+map_Ns https://github.com/bpaszkowski10/testObject2/blob/main/textures/handle_roughness.jpg
+refl https://github.com/bpaszkowski10/testObject2/blob/main/textures/handle_metallic.jpg
 
 newmtl roller_texture
 Ns 225.000000
@@ -24,7 +24,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump textures\\roller_normal.png
-map_Kd textures\\roller_base_color.png
-map_Ns textures\\roller_roughness.png
-refl I:\\Shahid\\Inkscape Vectors and PNG\\Paint Roller Animation\\textures\\roller_metallic.png
+map_Bump textures\\roller_normal.jpg
+map_Kd textures\\roller_base_color.jpg
+map_Ns textures\\roller_roughness.jpg
+refl I:\\Shahid\\Inkscape Vectors and PNG\\Paint Roller Animation\\textures\\roller_metallic.jpg
